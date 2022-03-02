@@ -1,4 +1,4 @@
-
+// Show the map with Marker Clustering
 function initMap() {
   const map = new google.maps.Map(document.getElementById("map"), {
     zoom: 3,
